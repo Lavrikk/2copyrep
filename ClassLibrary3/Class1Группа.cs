@@ -5,10 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using GFD;
 using Specialization;
-
 namespace ClassLibrary1
 {
-    
     public class Var4
     {
        public string Nazvanie2 { get; }
@@ -26,6 +24,5 @@ namespace ClassLibrary1
             employees2 = employees;
             Specialization2 = Specialization;
         }
-    }
-    
+    }   
 }
